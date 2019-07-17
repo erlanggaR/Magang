@@ -1,0 +1,11 @@
+semweb-project(Aplikasi pencari compatible hardware berdasarkan device)
+
+Data Management menggunakan Protege
+Query menggunakan SPARQL
+Front-End (HTML) mengerjakan home page
+Back-End hanya membantu logic dari fungsi autocomplete
+
+PPL (Aplikasi management hewan)
+
+Page Login, Register, connect ke firebase, Menu.
+tidak termasuk dengan style
